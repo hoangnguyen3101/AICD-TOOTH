@@ -1,0 +1,64 @@
+{
+  "version": "3.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          318.5,
+          336.5
+        ],
+        [
+          465.5,
+          336.5
+        ],
+        [
+          465.5,
+          473.5
+        ],
+        [
+          318.5,
+          473.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          591.0,
+          356.5
+        ],
+        [
+          643.0,
+          356.5
+        ],
+        [
+          643.0,
+          427.5
+        ],
+        [
+          591.0,
+          427.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "004728.TIF",
+  "imageData": null,
+  "imageHeight": 1000,
+  "imageWidth": 668
+}

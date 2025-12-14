@@ -1,0 +1,145 @@
+{
+  "version": "3.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          290.0,
+          630.5
+        ],
+        [
+          318.0,
+          630.5
+        ],
+        [
+          318.0,
+          707.5
+        ],
+        [
+          290.0,
+          707.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          322.0,
+          644.5
+        ],
+        [
+          348.0,
+          644.5
+        ],
+        [
+          348.0,
+          721.5
+        ],
+        [
+          322.0,
+          721.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          456.5,
+          658.5
+        ],
+        [
+          481.5,
+          658.5
+        ],
+        [
+          481.5,
+          739.5
+        ],
+        [
+          456.5,
+          739.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          497.0,
+          656.5
+        ],
+        [
+          525.0,
+          656.5
+        ],
+        [
+          525.0,
+          751.5
+        ],
+        [
+          497.0,
+          751.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          613.5,
+          665.0
+        ],
+        [
+          648.5,
+          665.0
+        ],
+        [
+          648.5,
+          769.0
+        ],
+        [
+          613.5,
+          769.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "002051.png",
+  "imageData": null,
+  "imageHeight": 861,
+  "imageWidth": 771
+}

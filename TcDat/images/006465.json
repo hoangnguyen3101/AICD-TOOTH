@@ -1,0 +1,145 @@
+{
+  "version": "3.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          246.5,
+          41.0
+        ],
+        [
+          321.5,
+          41.0
+        ],
+        [
+          321.5,
+          141.0
+        ],
+        [
+          246.5,
+          141.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          159.0,
+          76.0
+        ],
+        [
+          219.0,
+          76.0
+        ],
+        [
+          219.0,
+          238.0
+        ],
+        [
+          159.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          526.5,
+          83.5
+        ],
+        [
+          569.5,
+          83.5
+        ],
+        [
+          569.5,
+          134.5
+        ],
+        [
+          526.5,
+          134.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          576.5,
+          85.5
+        ],
+        [
+          613.5,
+          85.5
+        ],
+        [
+          613.5,
+          122.5
+        ],
+        [
+          576.5,
+          122.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          694.0,
+          5.0
+        ],
+        [
+          916.0,
+          5.0
+        ],
+        [
+          916.0,
+          153.0
+        ],
+        [
+          694.0,
+          153.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "006465.TIF",
+  "imageData": null,
+  "imageHeight": 668,
+  "imageWidth": 1000
+}

@@ -1,0 +1,37 @@
+{
+  "version": "3.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          268.5,
+          173.0
+        ],
+        [
+          471.5,
+          173.0
+        ],
+        [
+          471.5,
+          281.0
+        ],
+        [
+          268.5,
+          281.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "006692.TIF",
+  "imageData": null,
+  "imageHeight": 668,
+  "imageWidth": 702
+}

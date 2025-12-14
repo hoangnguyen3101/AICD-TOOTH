@@ -1,0 +1,118 @@
+{
+  "version": "3.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          650.0,
+          397.0
+        ],
+        [
+          744.0,
+          397.0
+        ],
+        [
+          744.0,
+          607.0
+        ],
+        [
+          650.0,
+          607.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          832.5,
+          378.0
+        ],
+        [
+          907.5,
+          378.0
+        ],
+        [
+          907.5,
+          506.0
+        ],
+        [
+          832.5,
+          506.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          355.5,
+          546.0
+        ],
+        [
+          392.5,
+          546.0
+        ],
+        [
+          392.5,
+          610.0
+        ],
+        [
+          355.5,
+          610.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "not_exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          186.5,
+          544.0
+        ],
+        [
+          267.5,
+          544.0
+        ],
+        [
+          267.5,
+          648.0
+        ],
+        [
+          186.5,
+          648.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "006440.TIF",
+  "imageData": null,
+  "imageHeight": 668,
+  "imageWidth": 1000
+}

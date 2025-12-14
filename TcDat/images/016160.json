@@ -1,0 +1,37 @@
+{
+  "version": "3.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "exposed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          369.0,
+          266.5
+        ],
+        [
+          623.0,
+          266.5
+        ],
+        [
+          623.0,
+          553.5
+        ],
+        [
+          369.0,
+          553.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "016160.png",
+  "imageData": null,
+  "imageHeight": 1161,
+  "imageWidth": 984
+}
